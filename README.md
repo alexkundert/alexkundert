@@ -22,4 +22,4 @@ Currently I am a chartered accountant. I am also very interested in gardening an
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexander-kundert-9b489077/)) and check out some of my projects on[GitHub](https://github.com/alexkundert). I am enjoying my learning and looking to grow with others in this really interesting and complex world of coding!
 
-#_**Happy coding!**_ 🚀
+# _**Happy coding!**_ 🚀
