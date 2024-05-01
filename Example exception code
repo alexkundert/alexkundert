@@ -1,0 +1,4 @@
+num = int(input("Enter a number greater than 10: "))
+
+if num < 10:
+    raise Exception(f"{num} is less than 10")
